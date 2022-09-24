@@ -1,1 +1,1 @@
-start cmd.exe /k "cd C:\Users\Francisco\Documents\NodeJS\Academlo\Tasks && npm start"
+start cmd.exe /k "cd C:\Users\Francisco\Documents\NodeJS\Academlo\All Exercises\Tasks && npm start"
